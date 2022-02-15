@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: In-class Activities
 uid: 49d6d7be-ecd2-8693-09f5-d312a3b2b6a4
 ---

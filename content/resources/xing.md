@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: Stroke-by-stroke animation demonstrating Chinese calligraphy.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21g-103-chinese-iii-regular-fall-2003/1d2b66d8d916f2010bff99eb3abd0746_xing.jpg
+file: /media/courses/21g-103-chinese-iii-regular-fall-2003/1d2b66d8d916f2010bff99eb3abd0746_xing.jpg
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: xing.jpg
 uid: 1d2b66d8-d916-f201-0bff-99eb3abd0746
