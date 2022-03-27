@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 05a896cf-e841-059f-05c2-f7aae1322a71
 resourcetype: Document
 title: Oral -1
 uid: edd3afea-1d9d-6424-7e66-8bcf966aadb4

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 49d6d7be-ecd2-8693-09f5-d312a3b2b6a4
 resourcetype: Document
 title: Lady in the paiting-4
 uid: ce8b2b36-87f4-87d2-900e-81cfa3f22fb7

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: In-class Activities
 parent_type: CourseSection
+parent_uid: 49d6d7be-ecd2-8693-09f5-d312a3b2b6a4
 resourcetype: Document
 title: Lady in the painting-2
 uid: 8d9dd717-37b6-1923-e711-b4fcacbd99a1

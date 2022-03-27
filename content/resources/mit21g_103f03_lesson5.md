@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: cea7ff2e-6daa-1165-8bad-ed96aabcc888
 resourcetype: Document
 title: 'Lesson 5: Weather and seasons'
 uid: 14f91f60-fe3a-94f4-cf04-14d2da8c2346
