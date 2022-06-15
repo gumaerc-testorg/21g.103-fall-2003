@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Stroke-by-stroke animation demonstrating Chinese calligraphy.
-file: /media/courses/21g-103-chinese-iii-regular-fall-2003/29f495b9abbf517115bdaf0d25f4d237_hu.jpg
+file: /courses/21g-103-chinese-iii-regular-fall-2003/29f495b9abbf517115bdaf0d25f4d237_hu.jpg
 file_type: image/gif
 image_metadata:
   caption: ''
@@ -16,3 +16,5 @@ resourcetype: Image
 title: hu.jpg
 uid: 29f495b9-abbf-5171-15bd-af0d25f4d237
 ---
+Stroke-by-stroke animation demonstrating Chinese calligraphy.
+

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -29,7 +30,7 @@ In the lists below, sections skipped are intentionally skipped (because we judge
 Unit I:
 -------
 
-Lesson 3 ([PDF]({{< baseurl >}}/resources/mit21g_103f03_lesson3))
+Lesson 3 ({{% resource_link ba471cd5-88b0-d08f-2641-4cd6435b5753 "PDF" %}})
 
 Section B: Dialogue, pages 65-6
 
@@ -38,7 +39,7 @@ Section C: Analysis section 5 (location, with exercise); 6 (scores, with ex.)
 Unit II:
 --------
 
-Lesson 4 ([PDF]({{< baseurl >}}/resources/mit21g_103f03_lesson4))
+Lesson 4 ({{% resource_link e5ff4b39-ffdc-d2d6-ef9d-8a09cf005bd1 "PDF" %}})
 
 Section A: Transitions, pages 89-92: section 1 (adverbs with ex.); 2 (years and age with ex.)
 
@@ -49,7 +50,7 @@ Section C: Analysis, pages 98-107: sections 2 (xiang vs xiang); 3 (position of z
 Unit III:
 ---------
 
-Lesson 5 ([PDF]({{< baseurl >}}/resources/mit21g_103f03_lesson5))
+Lesson 5 ({{% resource_link 14f91f60-fe3a-94f4-cf04-14d2da8c2346 "PDF" %}})
 
 Section A: Transitions, pages 122-26: section 1 (connecting sentences with ex.); 2 (Counting); 3 (How many?); 4 (time words); 5 (when); 7 (must and ought)
 
@@ -159,7 +160,7 @@ First level Chinese review
 Preview L.1, Paragraph 1-2 on p.2  
 Read Note on p.2  
 Study 語言結構 on p.6  
-L1 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l1912))
+L1 Structure ({{% resource_link 646b58ff-b189-c910-6acd-05fc17278bfb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -175,7 +176,7 @@ L1 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l1912))
 Review L.1, paragraph 1-2  
 Preview L.1, paragraph 3-end  
 Study 詞匯用法 on p.7  
-L.1 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l1912))
+L.1 Structure ({{% resource_link 646b58ff-b189-c910-6acd-05fc17278bfb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -236,7 +237,7 @@ Written work on p.17 談出國
 Read p.15 and do exercises  
 Review L.1  
 Study the correct way of writing the six characters  
-L.1 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l1912))
+L.1 Structure ({{% resource_link 646b58ff-b189-c910-6acd-05fc17278bfb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -279,7 +280,7 @@ Listen to L.2
 Study L.2, Paragraph 1-2  
 Study notes on p.20  
 Study p.25-26  
-L.2 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l2926))
+L.2 Structure ({{% resource_link 24827c2f-be18-27d5-ec6f-5610059e4e21 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -367,7 +368,7 @@ All homework will be due
 
 
 Review L.1.  
-L.1 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l1912))
+L.1 Structure ({{% resource_link 646b58ff-b189-c910-6acd-05fc17278bfb "PDF" %}})
 
 
 {{< tdclose >}}
@@ -383,7 +384,7 @@ L.1 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l1912))
 Preview p.42 and p.44 the first 12 lines.  
 Listen to L.3.  
 Read p.54.  
-L.3 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_key1108))
+L.3 Structure ({{% resource_link 747c7611-3885-74f2-73bc-33d34c3dcc78 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -401,7 +402,7 @@ Study the rest of L.3
 Study notes on p.45-46  
 Study p.48-49  
 Study p.50-51  
-L.3 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_key1108))
+L.3 Structure ({{% resource_link 747c7611-3885-74f2-73bc-33d34c3dcc78 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -460,7 +461,7 @@ L.3 homework is due tomorrow
 Study the six characters  
 Read the posted messages under the topic 请你介绍一下中国年轻人找对象的方法 and try to understand them  
 Review L.3  
-L.3 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_key1108))
+L.3 Structure ({{% resource_link 747c7611-3885-74f2-73bc-33d34c3dcc78 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -476,7 +477,7 @@ L.3 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_key1108))
 Preview L.4, p.64  
 Study p.64, notes  
 Study p.68  
-L.4 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l41021))
+L.4 Structure ({{% resource_link 30982db3-3747-8ed0-a4a3-38d235b921d8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -562,7 +563,7 @@ Study the posted dialogue
 
 Review L.4  
 Do p.82 and 83  
-L.4 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l41021))
+L.4 Structure ({{% resource_link 30982db3-3747-8ed0-a4a3-38d235b921d8 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -610,7 +611,7 @@ Study p.92
 Study p.95-97  
 Study posted dialogue  
 Review from Lesson 1 to 4  
-L.5 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l51103))
+L.5 Structure ({{% resource_link 2fe0595d-899b-ac51-bbbb-cec300738693 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -640,7 +641,7 @@ Review L.5
 Study p.93-94, and do its exercises  
 Study p.73  
 Do P. 100 I, II A-B  
-L.5 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l51103))
+L.5 Structure ({{% resource_link 2fe0595d-899b-ac51-bbbb-cec300738693 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -668,7 +669,7 @@ Do p.101, (C), (D) and III
 
 
 Review L.5 for quiz  
-L.5 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l51103))
+L.5 Structure ({{% resource_link 2fe0595d-899b-ac51-bbbb-cec300738693 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -684,7 +685,7 @@ L.5 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l51103))
 Preview L.6, p.110  
 Study p.110, notes  
 Study p.115 and 119  
-L.6 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l61117))
+L.6 Structure ({{% resource_link 518d6651-5130-1ca0-d636-20ae6c7e7a3f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -770,7 +771,7 @@ Practice p.126, IV and V
 
 Do p.126, composition  
 Review L.6  
-L.6 Structure ([PDF]({{< baseurl >}}/resources/mit21g_103f03_l61117))
+L.6 Structure ({{% resource_link 518d6651-5130-1ca0-d636-20ae6c7e7a3f "PDF" %}})
 
 
 {{< tdclose >}}
