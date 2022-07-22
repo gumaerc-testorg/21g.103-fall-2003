@@ -1,10 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 5ddf8675-9d2c-7690-4418-f02e1b62d5ae
 ---
 
-The first two weeks of the course are referred to as "Transition." During these weeks the students review what they learned in 21G.102. See the [assignments]({{< baseurl >}}/pages/assignments) section for detailed information about what is covered during Transition. Reference to "L" below refer to lessons in the required text. See the [syllabus]({{< baseurl >}}/pages/syllabus) for the full citation.
+The first two weeks of the course are referred to as "Transition." During these weeks the students review what they learned in 21G.102. See the {{% resource_link cea7ff2e-6daa-1165-8bad-ed96aabcc888 "assignments" %}} section for detailed information about what is covered during Transition. Reference to "L" below refer to lessons in the required text. See the {{% resource_link 4171e15c-7ca9-964a-ea6e-750f7fcb5f74 "syllabus" %}} for the full citation.
 
 {{< tableopen >}}
 {{< theadopen >}}
