@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: xing.jpg
 uid: 1d2b66d8-d916-f201-0bff-99eb3abd0746
 ---
 Stroke-by-stroke animation demonstrating Chinese calligraphy.
-

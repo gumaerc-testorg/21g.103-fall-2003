@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: sha.jpg
 uid: 30b0e7f0-7f7d-03a2-d255-2a3546b1d6d0
 ---
 Stroke-by-stroke animation demonstrating Chinese calligraphy.
-

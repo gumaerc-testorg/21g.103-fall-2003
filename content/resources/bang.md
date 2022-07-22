@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: bang.jpg
 uid: f5e34808-f68e-d0ac-6694-611c15548a3c
 ---
 Stroke-by-stroke animation demonstrating Chinese calligraphy.
-

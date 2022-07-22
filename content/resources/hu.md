@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: hu.jpg
 uid: 29f495b9-abbf-5171-15bd-af0d25f4d237
 ---
 Stroke-by-stroke animation demonstrating Chinese calligraphy.
-
