@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding lady in the painting.
-file: /courses/21g-103-chinese-iii-regular-fall-2003/4275b53c9a1754aa58189ee7525c4f69_MIT21G_103F03_painting3.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2003/4275b53c9a1754aa58189ee7525c4f69_MIT21G_103F03_painting3.pdf
+file_size: 589578
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

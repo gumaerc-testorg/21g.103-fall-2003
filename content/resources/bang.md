@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Stroke-by-stroke animation demonstrating Chinese calligraphy.
-file: /courses/21g-103-chinese-iii-regular-fall-2003/f5e34808f68ed0ac6694611c15548a3c_bang.jpg
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2003/f5e34808f68ed0ac6694611c15548a3c_bang.jpg
+file_size: 10579
 file_type: image/gif
 image_metadata:
   caption: ''

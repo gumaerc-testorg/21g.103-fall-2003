@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains information regarding Chinese III assignments,
   weather and seasons.
-file: /courses/21g-103-chinese-iii-regular-fall-2003/14f91f60fe3a94f4cf0414d2da8c2346_MIT21G_103F03_lesson5.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2003/14f91f60fe3a94f4cf0414d2da8c2346_MIT21G_103F03_lesson5.pdf
+file_size: 365674
 file_type: application/pdf
 learning_resource_types:
 - Assignments

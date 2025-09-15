@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains information regarding oral 1.
-file: /courses/21g-103-chinese-iii-regular-fall-2003/edd3afea1d9d64247e668bcf966aadb4_MIT21G_103F03_oral_1.pdf
+file: /ol-ocw-studio-app/courses/21g-103-chinese-iii-regular-fall-2003/edd3afea1d9d64247e668bcf966aadb4_MIT21G_103F03_oral_1.pdf
+file_size: 521875
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
