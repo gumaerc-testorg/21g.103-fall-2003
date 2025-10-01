@@ -20,7 +20,7 @@ Oral Practice 6 ({{% resource_link 300f2ce7-e261-953f-7394-69a42a502dc7 "PDF" %}
 Character Practice
 ------------------
 
-[Character Practice Website](http://www.mdbg.net/chindict/chindict.php?page=practice)  
+{{% resource_link "89abf273-bdfb-449a-aa56-a840b17c862d" "Character Practice Website" %}}  
 Character 1 ({{% resource_link f5e34808-f68e-d0ac-6694-611c15548a3c "Animated JPEG" %}})  
 Character 2 ({{% resource_link f32957e2-3d73-03d2-bfee-84234c4cca6c "Animated JPEG" %}})  
 Character 3 ({{% resource_link 29f495b9-abbf-5171-15bd-af0d25f4d237 "Animated JPEG" %}})  

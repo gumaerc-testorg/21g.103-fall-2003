@@ -106,5 +106,5 @@ Reading Questions
 David and Helen
 ---------------
 
-[David and Helen in China](http://www.columbia.edu/itc/ealac/zhang/dh/dh_audioclips.htm)  
+{{% resource_link "e1a28faa-3f5b-4be2-a4c7-d8ff87eb1732" "David and Helen in China" %}}  
 Supplementary Materials for David and Helen ({{% resource_link e38ed718-4ad3-0365-309e-a50ed9648270 "PDF" %}})
